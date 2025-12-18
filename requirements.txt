@@ -1,8 +1,8 @@
-streamlit
-yfinance
-pandas
-numpy
-matplotlib
-statsmodels
-arch
-scipy
+streamlit>=1.28
+yfinance>=0.2
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.7
+statsmodels>=0.14
+arch>=6.3
+
